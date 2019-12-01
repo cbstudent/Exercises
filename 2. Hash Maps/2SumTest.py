@@ -23,5 +23,4 @@ class twoSum:
 		
 		return (-1, -1)
 
-
 twoSum()
